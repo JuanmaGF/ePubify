@@ -1,0 +1,14 @@
+# Ignorar archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar dependencias de Node.js
+node_modules/
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+*.code-workspace
+
+# Ignorar archivos de entorno
+.env
